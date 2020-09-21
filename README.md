@@ -1,2 +1,2 @@
 # A.Raouf.github.io
-My personal profile loaded and hosted by github pages
+My personal profile static loaded and hosted by github
